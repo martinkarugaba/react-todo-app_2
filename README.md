@@ -13,8 +13,6 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -93,15 +91,6 @@ Install this project with:
   npm install
 ```
 
-### Usage
-
-To run the project, execute the following command:
-
-### Run tests
-
-To run tests, run the following command:
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -122,9 +111,9 @@ To run tests, run the following command:
 
 <!--> Describe 1 - 3 features you will add to the project.-->
 
-- [ ] **[Add_Todo]**
-- [ ] **[Edit_Todo]**
-- [ ] **[Delete_Todo]**
+- [ ] Add_Todo
+- [ ] Edit_Todo
+- [ ] Delete_Todo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
